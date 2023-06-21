@@ -895,10 +895,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@jeecg/antd-online-mini@3.1.0-beta":
-  version "3.1.0-beta"
-  resolved "https://registry.npmmirror.com/@jeecg/antd-online-mini/-/antd-online-mini-3.1.0-beta.tgz#cf3e254259503405a5e83ffa6775ac9fa02fe74c"
-  integrity sha512-pW0zWzExnxjlC3e7DzGYjQibLU22K/7N0kp1ddJrGgX33Ia/wq7ELOcwn6bLzITD89RcvX1JUW/om+IJ1PxOSw==
+"@jeecg/antd-online-mini@3.4.3-beta2":
+  version "3.4.3-beta2"
+  resolved "https://registry.yarnpkg.com/@jeecg/antd-online-mini/-/antd-online-mini-3.4.3-beta2.tgz#5903547f48a7d51f2df9773b85d25d28807e57ae"
+  integrity sha512-uZLjtQG/vAcBsCEysE1HceUyzwiHwU+JlNzvHxNnenNDHeaawZa9CfILUImNFJ5JQVqE5J11QpQNb6i5Boo3Gw==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -11458,6 +11458,13 @@ vue-photo-preview@^1.1.3:
     vue-template-compiler "^2.4.4"
     webpack "^3.6.0"
     webpack-dev-server "^2.9.1"
+
+vue-print-nb-jeecg@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/vue-print-nb-jeecg/-/vue-print-nb-jeecg-1.0.12.tgz#975e1dac3da8c9736ac81b82a2b099cafe1bb3df"
+  integrity sha512-jHyWm6/TxB1iU2nHL7upQdHVdxb1SJQ9n3XKeYTaruFdbSphLo1vDtTunS2qVCjupk8lui7FlF5rxxSNr0zjZg==
+  dependencies:
+    babel-plugin-transform-runtime "^6.23.0"
 
 vue-ref@^2.0.0:
   version "2.0.0"
