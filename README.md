@@ -8,4 +8,6 @@
 
 ## 交流
 
-> 项目上要使用 `JeecgBoot` 了，感觉交流的地方很少，有兴趣的可以聊聊 `wx: www_xiaodongxier_com`
+> 项目上要使用 `JeecgBoot` 了，感觉交流的地方很少，有兴趣的可以聊聊
+
+![微信](https://gitcdn.xiaodongxier.com/image/20230621165319.jpeg)
