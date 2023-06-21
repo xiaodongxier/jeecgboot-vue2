@@ -25,7 +25,7 @@ module.exports = {
   //   }
   // },
   //打包app时放开该配置
-  //publicPath:'/',
+  publicPath:'https://blog.xiaodongxier.com/jeecgboot-vue2/',
   configureWebpack: config => {
     //生产环境取消 console.log
     if (process.env.NODE_ENV === 'production') {
