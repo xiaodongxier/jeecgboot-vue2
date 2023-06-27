@@ -18,6 +18,12 @@
 
       <route-view></route-view>
 
+      <div class="footer">
+        <div class="copyright">
+          Copyright &copy; 2023 <a href="http://www.xiaodongxier.com" target="_blank">小东西儿</a> 部署
+        </div>
+      </div>
+
       <!-- <div class="footer">
         <div class="links">
           <a href="http://doc.jeecg.com" target="_blank">帮助</a>
